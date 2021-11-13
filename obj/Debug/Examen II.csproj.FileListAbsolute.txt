@@ -1,0 +1,64 @@
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\obj\Debug\Examen II.csproj.AssemblyReference.cache
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\obj\Debug\Ejercicio3.Views.MenuView.resources
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\obj\Debug\Ejercicio3.LoginView.resources
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\obj\Debug\Ejercicio3.Properties.Resources.resources
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\obj\Debug\Examen II.csproj.GenerateResource.cache
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\obj\Debug\Examen II.csproj.CoreCompileInputs.cache
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\obj\Debug\Ejercicio3.exe
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\obj\Debug\Ejercicio3.pdb
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\bin\Debug\Ejercicio3.exe
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\bin\Debug\Syncfusion.Grid.Base.dll
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\bin\Debug\Syncfusion.Grid.Windows.dll
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\bin\Debug\Syncfusion.Shared.Base.dll
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\bin\Debug\Syncfusion.Shared.Windows.dll
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\bin\Debug\Syncfusion.SpellChecker.Base.dll
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\bin\Debug\Syncfusion.Tools.Base.dll
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\bin\Debug\Syncfusion.Tools.Windows.dll
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\bin\Debug\Syncfusion.Grid.Base.xml
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\bin\Debug\Syncfusion.Grid.Windows.xml
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\bin\Debug\Syncfusion.Shared.Base.xml
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\bin\Debug\Syncfusion.Shared.Windows.xml
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\bin\Debug\Syncfusion.SpellChecker.Base.xml
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\bin\Debug\Syncfusion.Tools.Base.xml
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\bin\Debug\Syncfusion.Tools.Windows.xml
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\obj\Debug\Ejercicio3.Views.TSoporteView.resources
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\bin\Debug\Syncfusion.Core.WinForms.dll
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\bin\Debug\Syncfusion.Core.WinForms.xml
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\obj\Debug\Ejercicio3.Views.TicketView.resources
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\obj\Debug\Ejercicio3.Views.DetalleView.resources
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\obj\Debug\Ejercicio3.Views.EstadoView.resources
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\obj\Debug\Examen II.csproj.AssemblyReference.cache
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\obj\Debug\Ejercicio3.Views.DetalleView.resources
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\obj\Debug\Ejercicio3.Views.EstadoView.resources
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\obj\Debug\Ejercicio3.Views.MenuView.resources
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\obj\Debug\Ejercicio3.LoginView.resources
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\obj\Debug\Ejercicio3.Properties.Resources.resources
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\obj\Debug\Ejercicio3.Views.TicketView.resources
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\obj\Debug\Ejercicio3.Views.TSoporteView.resources
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\obj\Debug\Examen II.csproj.GenerateResource.cache
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\obj\Debug\Examen II.csproj.CoreCompileInputs.cache
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\obj\Debug\Ejercicio3.exe
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\obj\Debug\Ejercicio3.pdb
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\bin\Debug\Ejercicio3.exe.config
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\bin\Debug\Ejercicio3.exe
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\bin\Debug\Ejercicio3.pdb
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\bin\Debug\Syncfusion.Core.WinForms.dll
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\bin\Debug\Syncfusion.Grid.Base.dll
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\bin\Debug\Syncfusion.Grid.Windows.dll
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\bin\Debug\Syncfusion.Shared.Base.dll
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\bin\Debug\Syncfusion.Shared.Windows.dll
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\bin\Debug\Syncfusion.SpellChecker.Base.dll
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\bin\Debug\Syncfusion.Tools.Base.dll
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\bin\Debug\Syncfusion.Tools.Windows.dll
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\bin\Debug\Syncfusion.Core.WinForms.xml
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\bin\Debug\Syncfusion.Grid.Base.xml
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\bin\Debug\Syncfusion.Grid.Windows.xml
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\bin\Debug\Syncfusion.Shared.Base.xml
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\bin\Debug\Syncfusion.Shared.Windows.xml
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\bin\Debug\Syncfusion.SpellChecker.Base.xml
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\bin\Debug\Syncfusion.Tools.Base.xml
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\bin\Debug\Syncfusion.Tools.Windows.xml
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\ExamenII\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll

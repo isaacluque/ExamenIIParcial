@@ -1,0 +1,11 @@
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\bin\Debug\Ejercicio3.exe
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\obj\Debug\Ejercicio3.Properties.Resources.resources
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\obj\Debug\Ejercicio3.exe
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\obj\Debug\Ejercicio3.pdb
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\obj\Debug\Ejercicio3.LoginView.resources
+E:\visual\Lenguaje 3 III PAC 2021\Lenguaje de Programacion 3\ProgramasLenguaje3\Ejercicio3\obj\Debug\Ejercicio3.Views.BienvenidoView.resources
